@@ -1,0 +1,15 @@
+D:\Workrelated\csharp\DbProgram\DbProgram\bin\Debug\net6.0\DbProgram.exe
+D:\Workrelated\csharp\DbProgram\DbProgram\bin\Debug\net6.0\DbProgram.deps.json
+D:\Workrelated\csharp\DbProgram\DbProgram\bin\Debug\net6.0\DbProgram.runtimeconfig.json
+D:\Workrelated\csharp\DbProgram\DbProgram\bin\Debug\net6.0\DbProgram.dll
+D:\Workrelated\csharp\DbProgram\DbProgram\bin\Debug\net6.0\DbProgram.pdb
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\DbProgram.csproj.AssemblyReference.cache
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\DbProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\DbProgram.AssemblyInfoInputs.cache
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\DbProgram.AssemblyInfo.cs
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\DbProgram.csproj.CoreCompileInputs.cache
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\DbProgram.dll
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\refint\DbProgram.dll
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\DbProgram.pdb
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\DbProgram.genruntimeconfig.cache
+D:\Workrelated\csharp\DbProgram\DbProgram\obj\Debug\net6.0\ref\DbProgram.dll
